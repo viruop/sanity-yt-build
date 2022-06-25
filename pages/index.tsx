@@ -24,8 +24,8 @@ export default function Home({ posts }:Props) {
 
       <div className='flex justify-between items-center bg-yellow-400 border-y border-black py-10 lg:py-0'>
         <div className='px-10 space-y-5'>
-          <h1 className='text-6xl font-serif max-w-xl'>Lorem ipsum dolor sit, amet quos qui ipsum a fugit eos in</h1>
-          <h2> Build 6 Apps in 17 Hours SSR, Auth, Full-Stack + More 2022</h2>
+          <h1 className='text-5xl font-serif max-w-xl'>Blog website Using Next.js, Tailwind, Sanity.io &amp; GROQ <span className='text-2xl'>(mene bhi first name sunna hai)</span> </h1>
+          <h2>Header ignore karo aur post pe dhyan do vro 🤌🏽</h2>
         </div>
 
         <img 
