@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+sanityyoutube/node_modules
+sanityyoutube/dist
+
 # testing
 /coverage
 
